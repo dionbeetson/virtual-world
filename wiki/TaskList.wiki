@@ -9,7 +9,6 @@
  * Design prototype
  * Develop prototype
  * Testing prototype
-
  * Prepare for Prototype demonstration week 7
  * Deliverables
   * Design document 
