@@ -1,0 +1,12 @@
+#summary List of tasks for the project with status of tasks.
+
+= Tasks =
+
+ * Create Project plan/proposal
+ * Create WPF project and upload using svn
+ *
+
+= Completed Tasks =
+
+ * Create Google Code Site. *Done*
+ * Add other project members to MSN messenger *Done*
