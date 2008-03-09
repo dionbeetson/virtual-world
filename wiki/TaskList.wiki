@@ -11,15 +11,15 @@
  * Testing prototype
  * Prepare for Prototype demonstration week 7
  * Deliverables
-  * Design document 
-  * Data design 
-  * Test design 
-  * User guide 
-  * Technical guide 
+   * Design document 
+   * Data design 
+   * Test design 
+   * User guide 
+   * Technical guide 
 
  * Final product
-  * Scale/completeness
-  * Reliability/robustness
+   * Scale/completeness
+   * Reliability/robustness
 
 = Completed Tasks =
 
