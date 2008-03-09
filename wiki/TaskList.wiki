@@ -2,11 +2,28 @@
 
 = Tasks =
 
- * Create Project plan/proposal
- * Create WPF project and upload using svn
- *
+ * Create WPF project and upload using svn (verify source control works ok)
+
+ * Create Project proposal
+ * Create Project prototype
+ * Design prototype
+ * Develop prototype
+ * Testing prototype
+
+ * Prepare for Prototype demonstration week 7
+ * Deliverables
+  * Design document 
+  * Data design 
+  * Test design 
+  * User guide 
+  * Technical guide 
+
+ * Final product
+  * Scale/completeness
+  * Reliability/robustness
 
 = Completed Tasks =
 
+ * Group formed. Stephen and Dion. *Done*
  * Create Google Code Site. *Done*
  * Add other project members to MSN messenger *Done*
