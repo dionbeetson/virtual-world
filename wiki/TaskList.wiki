@@ -4,6 +4,7 @@
 
  * Create Team Contract
  * Create Gantt Chart
+ * Create WPF project and upload using svn (verify source control works ok)
 
  * Create Project proposal
  * Create Project prototype
@@ -27,4 +28,3 @@
  * Group formed. Stephen and Dion. *Done*
  * Create Google Code Site. *Done*
  * Add other project members to MSN messenger *Done*
- * Create WPF project and upload using svn (verify source control works ok) *Done*
