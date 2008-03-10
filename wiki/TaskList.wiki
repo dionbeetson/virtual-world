@@ -2,7 +2,6 @@
 
 = Tasks =
 
- * Create WPF project and upload using svn (verify source control works ok)
  * Create Team Contract
  * Create Gantt Chart
 
@@ -28,3 +27,4 @@
  * Group formed. Stephen and Dion. *Done*
  * Create Google Code Site. *Done*
  * Add other project members to MSN messenger *Done*
+ * Create WPF project and upload using svn (verify source control works ok) *Done*
