@@ -3,6 +3,8 @@
 = Tasks =
 
  * Create WPF project and upload using svn (verify source control works ok)
+ * Create Team Contract
+ * Create Gantt Chart
 
  * Create Project proposal
  * Create Project prototype
