@@ -1,0 +1,1 @@
+This is the code source location for a Virtual World web application project. Being developed for ECU Mount Lawley Campus, Western Australia as part of a final IT Project for a group of students.
